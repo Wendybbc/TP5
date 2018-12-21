@@ -1,0 +1,15 @@
+.phrase {
+  font-family: 'Montserrat','Arial Black', Gadget, sans-serif;
+  color: #F08080;
+}
+
+.captchas {
+  background-color: #FFC0CB;
+  border-radius: 10px 100px / 120px;
+}
+
+.contour {
+  width: 30%;
+  border-style: dotted;
+  border-color: black;
+}
