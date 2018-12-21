@@ -1,4 +1,4 @@
 # TP5
 TP5
 
-Si vous voulez changer le code, rentrer dans un éditeur de texte et essayer à nouveau votre Captchas dans le navigateur web
+Si l'image du captchas se trouvait dans le dossier "Image", il ne s'affichait pas lors des essais. Je l'ai donc retiré du dossier.
